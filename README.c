@@ -37,3 +37,40 @@ int main() {
 
     return 0;
 }
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Virtual Memory Management Simulation</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding-top: 60px;
+        }
+        .box {
+            background: white;
+            width: 60%;
+            margin: auto;
+            padding: 30px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h1>Virtual Memory Management Simulation</h1>
+    <p>
+        This webpage acts as the user interface for demonstrating
+        FIFO, LRU, and Optimal page replacement algorithms.
+    </p>
+    <p>
+        The actual simulation is executed in C programming language
+        and runs in the background.
+    </p>
+    <p><b>Please observe the terminal window for live output.</b></p>
+</div>
+
+</body>
+</html>p
